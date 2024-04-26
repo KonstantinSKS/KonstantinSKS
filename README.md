@@ -1,4 +1,7 @@
-### Hi there 👋
+###   My name is Konstantin and I'm a backend developer. 👋
+
+##Languages and Tools:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **KonstantinSKS/KonstantinSKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
