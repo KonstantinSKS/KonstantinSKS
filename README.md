@@ -22,7 +22,7 @@
 ## My Stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinSKS&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinSKS)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KonstantinSKS&layout=compact)
 
 
 <!--
