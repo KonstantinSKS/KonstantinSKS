@@ -1,4 +1,4 @@
-![screenshot](api.gif)
+<img src="https://github.com/KonstantinSKS/KonstantinSKS/blob/main/api.gif" width="480" height="260">
 ###   My name is Konstantin and I'm a backend developer. 👋
 
 ##Languages and Tools:
